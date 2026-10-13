@@ -8,6 +8,15 @@ run a Fanvue creator or agency account.
 
 **Grok Build**
 
+If `grok --version` does not print a version, install Grok Build and sign in first:
+
+```bash
+curl -fsSL https://x.ai/cli/install.sh | bash
+grok   # opens your browser to sign in to Grok
+```
+
+Then install the plugin:
+
 ```bash
 grok plugin install fanvue/plugins#grok/fanvue --trust
 ```
