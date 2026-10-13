@@ -1,0 +1,14 @@
+{
+  "name": "fanvue",
+  "displayName": "Fanvue",
+  "version": "1.0.0",
+  "description": "Official Fanvue integration (hosted MCP server + skills). Sign in with your Fanvue creator or agency account to read and reply to chats, send mass messages to lists, create and schedule posts, manage the vault, read earnings, subscribers and top spenders, and create checkout and tracking links, directly from Grok.",
+  "author": {
+    "name": "Fanvue",
+    "url": "https://www.fanvue.com"
+  },
+  "homepage": "https://api.fanvue.com/docs/mcp-server",
+  "license": "MIT",
+  "keywords": ["fanvue", "fanvue mcp", "fanvue creator", "fanvue agency", "fanvue messages", "fanvue earnings"],
+  "logo": "assets/logo.svg"
+}
